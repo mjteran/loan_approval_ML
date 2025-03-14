@@ -2,13 +2,6 @@
 
 **Summary**: This project uses machine learning models to predict loan approval with greater accuracy. Which help banks make informed decisions efficiently, benefiting both applicants and financial institutions.
 
-## 🔗 Quick Links
-
-| 📄 Description    | 🌍 Link                                                                                                                       |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 📂 GitHub Repository | [GitHub Repository](https://github.com/mjteran/loan_approval_ML.git)                                                     |
-| 📜 Report Link       | [Project Report]( )                                                                                                       |
-
 ## ⚡ Features Overview
 
 | Feature                 | Description                                                                 |
@@ -32,6 +25,8 @@
 - 📁 `/models`: Jupyter notebook files.  
 
 ## 📑 Jupyter Notebook Files
+
+Each file can be executed on Google Colab.
 
 ### `loan_approval_ML.ipynb` – 📄 Paper Reproduction  
 This notebook replicates the methodology from the referenced paper, focusing on **data preprocessing, feature engineering, and machine learning algorithms** to predict loan approval.
